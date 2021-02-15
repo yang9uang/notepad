@@ -28,7 +28,7 @@
     <properties>
         <mybatis-pulus-boot-version>3.3.0</mybatis-pulus-boot-version>
         <alibaba-druid>1.1.10</alibaba-druid>
-        <mysql-connector-java>8.0.13</mysql-connector-java>
+        <mysql-connector-java>8.0.16</mysql-connector-java>
         <knife4j-spring-boot-starter>2.0.1</knife4j-spring-boot-starter>
         <swagger-bootstrap-ui>1.9.6</swagger-bootstrap-ui>
         <alibaba-fastjson>1.2.60</alibaba-fastjson>
